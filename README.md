@@ -1,6 +1,6 @@
 # Quan Viet Landing Page
 
-Coded a landing page for my family bistro, responsive
+Coded a landing page for my family bistro, responsive, one of my side project for practicing purposes
 
 # Technologies Used
 1. HTML/CSS
